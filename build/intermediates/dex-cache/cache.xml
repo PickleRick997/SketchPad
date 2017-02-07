@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d408941f12a5828bd43dac2d365f8ef1d4e06611/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_85621ded91d94c6db8bdb4adde12423614fc94ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b0e846d63f86aefdeac6ef8ca191d14d35b77509/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a44c2d5565e0a57857539bec059b771826d9b91f/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1587432e091684c0fe0425a84e8404679dc7806d/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_c8afa263206cd71c6780d24112d2a69794f26147/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_99bdd59c7ac70fbe888237fed82c98aa5da9b9c9/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_259c47aafd5f0561c248bb11bbeb17c35e254f44/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_243246beb4909f9a2ea79eb6464a8fd0da2a06e0/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0c5573ae54e6e106d37eaf05a1a1faa7560d2ba8">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c79d798eca447dbeec773b87a4e2c82a06565dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb510bf6bc383550efebb217c9ad940312bc69d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_997149ca7ec38a18b063ea7c46af93d14b26fc00/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b1ffd9fabeb88848080e7e866fa4dc6fdb39915d">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f14127e3f7f89c540ec48d1b359029c6615d591/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f3668c7ea61df55ccf77aeb99f6e7757552440b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6d72c37a690307ba5e7d6b9fdea2d5a212685861/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_7e07eaade6342f54344871408d391edaf1fa7d6a/classes.dex" />
+    </item>
+    <item
+        jar="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/rohit/AndroidStudioProjects/SketchPad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_50653392e0262116c468355a67cb2cbd2bd11a0c/classes.dex" />
+    </item>
+
+</items>
